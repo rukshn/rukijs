@@ -9,6 +9,8 @@ Ruki is a simple javascript routing library.
 		'/route1' : route,
 		'/route2' : routetwo,
 	})
+    Ruki.start()
+    
 
 **Accessing routes** 
 
